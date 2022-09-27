@@ -1,0 +1,4 @@
+what we need for this simple project
+flask
+Flask-SQLAlchemy
+flask-login
